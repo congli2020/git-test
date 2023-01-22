@@ -7,5 +7,6 @@ public class GitTest {
         System.out.println("信息工程学院");
         System.out.println("22物联网0102班");
         System.out.println("master test2");
+        System.out.println("hot-fix test");
     }
 }
